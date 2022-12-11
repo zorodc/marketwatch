@@ -1,0 +1,15 @@
+STOCK SYMBOL: DJIA
+	SENTIMENT: mean(+0.250), stdev(0.000), N(2.000)
+	CERTAINTY: mean(+0.300), stdev(0.000), N(2.000)
+STOCK SYMBOL: AAPL
+	SENTIMENT: mean(+0.100), stdev(0.458), N(3.000)
+	CERTAINTY: mean(+0.500), stdev(0.458), N(3.000)
+STOCK SYMBOL: RUI
+	SENTIMENT: mean(+0.188), stdev(0.000), N(1.000)
+	CERTAINTY: mean(+0.438), stdev(0.000), N(1.000)
+STOCK SYMBOL: FB
+	SENTIMENT: mean(+0.083), stdev(0.000), N(1.000)
+	CERTAINTY: mean(+0.200), stdev(0.000), N(1.000)
+STOCK SYMBOL: SCHW
+	SENTIMENT: mean(-0.078), stdev(0.000), N(1.000)
+	CERTAINTY: mean(+0.144), stdev(0.000), N(1.000)
